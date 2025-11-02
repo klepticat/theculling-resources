@@ -10,5 +10,23 @@
         "sounds": [
             "hungrygames:begin"
         ]
+    },
+    "interview": {
+        "replace": "true",
+        "sounds": [
+            "hungrygames:interview_intro"
+        ]
+    },
+    "fallen": {
+        "replace": "true",
+        "sounds": [
+            "hungrygames:fallen"
+        ]
+    },
+    "victory": {
+        "replace": "true",
+        "sounds": [
+            "hungrygames:victory"
+        ]
     }
 }
